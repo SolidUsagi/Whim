@@ -1,0 +1,48 @@
+
+/* Class = "NSMenuItem"; title = "every 20 minutes"; ObjectID = "3iX-0Z-zBT"; */
+"3iX-0Z-zBT.title" = "20分";
+
+/* Class = "NSMenuItem"; title = "only at startup"; ObjectID = "5yp-BO-XZj"; */
+"5yp-BO-XZj.title" = "起動時のみ";
+
+/* Class = "NSMenuItem"; title = "every 30 minutes"; ObjectID = "Bxo-bc-eBl"; */
+"Bxo-bc-eBl.title" = "30分";
+
+/* Class = "NSMenuItem"; title = "every 1 minute"; ObjectID = "ETu-VT-eak"; */
+"ETu-VT-eak.title" = "1分";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "EkH-M0-zax"; */
+"EkH-M0-zax.title" = "OK";
+
+/* Class = "NSTableColumn"; headerCell.title = "Screen Saver"; ObjectID = "FN2-hK-Cw6"; */
+"FN2-hK-Cw6.headerCell.title" = "スクリーンセーバ";
+
+/* Class = "NSTextFieldCell"; title = "Switch:"; ObjectID = "IBu-4e-XTo"; */
+"IBu-4e-XTo.title" = "切り替え周期:";
+
+/* Class = "NSMenuItem"; title = "at a whim"; ObjectID = "KDE-Sl-em4"; */
+"KDE-Sl-em4.title" = "気まぐれ";
+
+/* Class = "NSMenuItem"; title = "every 30 seconds"; ObjectID = "Qew-Ns-5od"; */
+"Qew-Ns-5od.title" = "30秒";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "every 1 hour"; ObjectID = "Rfn-L4-1X3"; */
+"Rfn-L4-1X3.title" = "1時間";
+
+/* Class = "NSMenuItem"; title = "every 5 minutes"; ObjectID = "WQP-sQ-tFa"; */
+"WQP-sQ-tFa.title" = "5分";
+
+/* Class = "NSMenuItem"; title = "every 20 seconds"; ObjectID = "ZGO-hu-7Fl"; */
+"ZGO-hu-7Fl.title" = "20秒";
+
+/* Class = "NSMenuItem"; title = "every 2 minutes"; ObjectID = "bFQ-VG-8Fg"; */
+"bFQ-VG-8Fg.title" = "2分";
+
+/* Class = "NSMenuItem"; title = "every 10 seconds"; ObjectID = "cuE-oE-mZ9"; */
+"cuE-oE-mZ9.title" = "10秒";
+
+/* Class = "NSMenuItem"; title = "every 10 minutes"; ObjectID = "gg6-6i-ykA"; */
+"gg6-6i-ykA.title" = "10分";
