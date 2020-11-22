@@ -5,7 +5,7 @@ macOS用の「スクリーンセーバーを切り替えるスクリーンセー
 macOS Mojave 10.14 以降  
 
 ## インストール
-公証済みディスクイメージ[Whim_1.0.0.dmg](https://github.com/SolidUsagi/Whim/releases/latest/download/Whim_1.0.0.dmg)をダウンロードしてください。  
+公証済みディスクイメージ[Whim_1.1.0.dmg](https://github.com/SolidUsagi/Whim/releases/latest/download/Whim_1.1.0.dmg)をダウンロードしてください。  
 ダウンロードしたらダブルクリックでマウントし、中に収録されている`Whim.saver`をダブルクリックするとインストールできます。  
 インストールするとシステム環境設定の「スクリーンセーバ」パネルが開くので、リストから「Whim」を選択してください。  
 

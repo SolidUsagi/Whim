@@ -5,7 +5,7 @@ A screen saver that switches screen savers for macOS.
 macOS Mojave 10.14 or later  
 
 ## Installation
-Download the notarized disk image [Whim_1.0.0.dmg](https://github.com/SolidUsagi/Whim/releases/latest/download/Whim_1.0.0.dmg).  
+Download the notarized disk image [Whim_1.1.0.dmg](https://github.com/SolidUsagi/Whim/releases/latest/download/Whim_1.1.0.dmg).  
 After downloading it, double-click to mount it and double-click the `Whim.saver` included inside to install it.  
 Once installed, the "Screen Saver" panel in System Preferences will open, so select "Whim" from the list.  
 
